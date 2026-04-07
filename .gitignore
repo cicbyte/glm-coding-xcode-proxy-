@@ -1,0 +1,31 @@
+# Rust 编译输出
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# IDE 和编辑器
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.iml
+
+# 系统文件
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# 日志文件
+*.log
+logs/
+
+# 临时文件
+tmp/
+temp/
+*.tmp
+
+# 原始 Python 实现（仅供参考）
+移植/
+.claude/
+claude.md
