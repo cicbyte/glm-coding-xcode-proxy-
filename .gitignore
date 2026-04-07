@@ -1,7 +1,6 @@
 # Rust 编译输出
 /target/
 **/*.rs.bk
-Cargo.lock
 
 # IDE 和编辑器
 .idea/
