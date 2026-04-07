@@ -29,3 +29,4 @@ temp/
 移植/
 .claude/
 claude.md
+__pycache__/
